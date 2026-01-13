@@ -53,11 +53,11 @@ These findings contribute to research on deceptive design by showing how interve
 Not Included in This Repository
 
 The following materials are intentionally excluded:
-Qualtrics questionnaire
-Questionnaire responses
-Predictive modeling notebook (eye‑tracking → consent prediction)
-Raw eye‑tracking files
-Additional exploratory models and intermediate data‑processing steps developed during the research
+Qualtrics questionnaire,
+Questionnaire responses,
+Predictive modeling notebook (eye‑tracking → consent prediction),
+Raw eye‑tracking files,
+Additional exploratory models and intermediate data‑processing steps developed during the research.
 Only the finalized GLMM analyses and cleaned datasets used in the thesis are included.
 
 
